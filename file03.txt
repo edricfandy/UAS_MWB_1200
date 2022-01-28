@@ -1,1 +1,3 @@
 Ini merupakan file ketiga pada repo UAS_MWB_1200, dengan nama file file03.txt, dibuat setelah commit pertama
+
+Tambahan teks pada file03.txt, dilakukan setelah commit ketiga repo
