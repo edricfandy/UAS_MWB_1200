@@ -1,1 +1,4 @@
 Ini merupakan file kelima pada repo UAS_MWB_1200, dengan nama file file05.txt, dibuat setelah commit pertama
+
+
+Penambahan teks pada file05, dilakukan setelah commit keempat repo

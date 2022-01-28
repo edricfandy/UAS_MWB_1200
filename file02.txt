@@ -1,1 +1,4 @@
 Ini merupakan file kedua pada repo UAS_MWB_1200, dengan nama file file02.txt
+
+
+Perubahan pada file02, dilakukan setelah commit keempat repo
